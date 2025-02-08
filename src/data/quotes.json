@@ -2,33 +2,33 @@
   "qoutes": [
     {
       "id": "Q2",
-      "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
+      "text": "So, today and every day, I choose you. I choose to love you, to stand by you, and to dream with you",
       "image": "/images/image-03.webp"
     },
     {
       "id": "Q3",
-      "text": "You make me smile so easily. Can you be there, to do it forever?",
+      "text": "Today, on Propose day, I just want to tell you, that my heart is not just mine anymore - it's yours, forever and always.",
       "image": "/images/image-02.webp"
     },
     {
       "id": "Q4",
-      "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
+      "text": "I was alone in life, but when you came into my life, and my heart knew it had found a safe home.",
       "image": "/images/image-01.webp"
     },
     {
       "id": "Q5",
-      "text": "Your absence is stronger to me than the presence of thousands of other people",
+      "text": "You are my safe haven, my happiness, my forever.",
       "image": "/images/image-07.webp"
     },
     {
       "id": "Q6",
-      "text": "I fell in love with you not for how you look, just for who you are",
+      "text": "No matter where life takes us, through every high and low, my love for you will remain constant and endless.",
       "image": "/images/image-06.webp"
     }
   ],
   "propose": {
     "id": "finished",
-    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you",
+    "text": "Will you keep my heart as yours, now and forever? <3",
     "subtext": "That's all I will wait for your reply",
     "image": "/images/image-04.webp"
   }
